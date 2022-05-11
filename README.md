@@ -17,7 +17,7 @@ Visula studio 2022 RC
 
 Clone the repository \
 Download SFML 2.5.1 link: https://www.sfml-dev.org/download/sfml/2.5.1/ \
-Open Chess.sln
+Open Chess.sln \
 Setup SFML link: https://www.sfml-dev.org/tutorials/2.5/start-vc.php
 
 ## Feature update
